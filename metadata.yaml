@@ -1,0 +1,33 @@
+_repo: The-wounded_74219
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Farmer, Philip José
+    alias: Farmer, Philip Jose
+    birthdate: 1918
+    deathdate: 2009
+    gutenberg_agent_id: '33989'
+    url: http://www.gutenberg.org/2009/agents/33989
+    wikipedia: https://en.wikipedia.org/wiki/Philip_Jos%C3%A9_Farmer
+description: ''
+gutenberg_issued: '2024-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74219'
+language: en
+pgterms:marc905: 20240316162833farmer
+pgterms:marc906: '1954'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bKing-Size Publications, Inc., $c1954.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Fantasy fiction'
+- !lcc 'PS'
+- GITenberg
+title: The wounded
+url: http://www.gutenberg.org/ebooks/74219
